@@ -1,0 +1,4 @@
+C:/Users/Administrator/Desktop/test/Test4/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Administrator/Desktop/test/Test4/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Administrator/Desktop/test/Test4/build/hello/CMakeFiles/libhello.dir
+C:/Users/Administrator/Desktop/test/Test4/build/test/CMakeFiles/test.dir

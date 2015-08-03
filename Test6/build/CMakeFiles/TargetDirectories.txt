@@ -1,0 +1,4 @@
+C:/Users/Administrator/Desktop/test/Test6/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Administrator/Desktop/test/Test6/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Administrator/Desktop/test/Test6/build/hello/CMakeFiles/hello.dir
+C:/Users/Administrator/Desktop/test/Test6/build/test/CMakeFiles/test.dir

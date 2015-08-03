@@ -1,0 +1,21 @@
+﻿Build started 2015/8/3 10:20:26.
+     1>Project "C:\Users\Administrator\Desktop\test\Test3\build\libhello.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "libhello.dir\Debug\libhello.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Building Custom Rule C:/Users/Administrator/Desktop/test/Test3/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\Administrator\Desktop\test\Test3\build\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"libhello.dir\Debug\\" /Fd"C:/Users/Administrator/Desktop/test/Test3/build/Debug/hello.pdb" /Gd /TP /analyze- /errorReport:prompt C:\Users\Administrator\Desktop\test\Test3\hello.cpp  /Zm1000 
+         hello.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\Administrator\Desktop\test\Test3\build\Debug\hello.lib" /NOLOGO libhello.dir\Debug\hello.obj
+         libhello.vcxproj -> C:\Users\Administrator\Desktop\test\Test3\build\Debug\hello.lib
+       FinalizeBuildStatus:
+         Deleting file "libhello.dir\Debug\libhello.unsuccessfulbuild".
+         Touching "libhello.dir\Debug\libhello.lastbuildstate".
+     1>Done Building Project "C:\Users\Administrator\Desktop\test\Test3\build\libhello.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.40
